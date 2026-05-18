@@ -1,4 +1,4 @@
-# Weather Forecast Calibration Portfolio
+# Weather Forecast Calibration
 
 This is a sanitized portfolio version of a weather forecast calibration project.
 It demonstrates the data engineering and data science workflow without exposing
